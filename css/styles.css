@@ -232,13 +232,13 @@ text-align: center;
 }
 .img-scr {
     
-    width: 240px;
-    height: 400px;
+    width: 180px;
+    height: 300px;
 }
 
 .img_button{
-  width: 48px;
-  height: 48px;
+  width: 44px;
+  height: 44px;
 }
 .mdl-layout__headerimg-row {
   padding-right: 20px;
